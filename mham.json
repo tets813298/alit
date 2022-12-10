@@ -1,10 +1,15 @@
 [
-{ 
-"url" : "3.14",
-"code" : "يتوفر تحديث جديد على متجر بلاي"
- },
- {
-"url" : "https://play.google.com/store/apps/details?id=com.my.shaddat" 
-"code" : "34"
-} 
+  {
+    "test": "Hello",
+    "id": "@amin"
+  },
+  {
+    "test": "Made with love",
+    "id": "@amin2"
+  },
+  {
+    "test": "Manufacturer ID in Telegram:
+https://t.me/amin_o_0",
+    "id": "@amin3"
+  }
 ]
