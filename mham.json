@@ -1,5 +1,6 @@
 { 
-"version" : "3.14",
-"txt" : "يتوفر تحديث جديد على متجر بلاي",
-"url" : "https://play.google.com/store/apps/details?id=com.my.shaddat" 
+"url" : "3.14",
+"code" : "يتوفر تحديث جديد على متجر بلاي",
+"url2" : "https://play.google.com/store/apps/details?id=com.my.shaddat" 
+"code2" : "34"
 } 
