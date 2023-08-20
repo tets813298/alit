@@ -1,11 +1,11 @@
 { 
 "version" : "3.63",
-"txt" : " يتوفر تحديث جديد   ",
-"wasla" : "1.2",
-"apdat" : "يتوفر تحديث جديد على متجر بلاي",
+"txt" : " التطبيق تحت الصيانة لفترة غير معلومة   ",
+"wasla" : "off",
+"apdat" : "التطبيق تحت الصيانة",
 "urlapp" : "https://play.google.com/store/apps/details?id=com.wasla.geniuses",
-"vuser" : "2.7",
-"tuser" : "يتوفر تحديث جديد على متجر بلاي New Apdate",
+"vuser" : "off",
+"tuser" : "التطبيق تحت الصيانة",
 "urll" : "https://play.google.com/store/apps/details?id=com.wasla.geniuses",
 "vers" : "1.1",
 "text" : "يتوفر تحديث جديد  "
